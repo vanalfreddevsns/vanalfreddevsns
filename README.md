@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @vanalfreddevsns
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Alfred!
 
-<!---
-vanalfreddevsns/vanalfreddevsns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Full Stack Software Developer** with over **7 years** of experience, passionate about building robust, scalable, and user-friendly applications. Based in the **Philippines**, I specialize in crafting solutions across both frontend and backend platforms.
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend:** React JS, React Native  
+- **Backend:** Node JS, Nest JS  
+- **Languages:** TypeScript, JavaScript  
+- **Others:** REST APIs, gRPC, MongoDB, PostgreSQL, Git
+
+---
+
+## 👨‍💻 About Me
+
+- 🔧 I love building end-to-end systems — from UI to backend logic and APIs  
+- 🤝 I value collaboration, open communication, and clean, maintainable code  
+- 🚀 Always open to learning and adapting to new technologies and team environments  
+- 🌏 Working onsite from the beautiful 🇵🇭 **Philippines**
+
+---
+
+## 📫 Let's Connect
+
+- 📬 Feel free to reach out for collaboration, freelance work, or just tech talk!
+
+---
+
+Thanks for visiting my profile! 🚀
