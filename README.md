@@ -30,6 +30,7 @@ I'm a **Full Stack Software Developer** with over **7 years** of experience, pas
 
 ## 😄 Dev Life Mood
 
-![Coding Meme]([https://giphy.com/gifs/coding-zOvBKUUEERdNm](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh0Y2tzMW05engya3JiYXpieGgzbnlvazFxeGF4cmhyeTA5MG9sdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif))
+
+![Meme](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh0Y2tzMW05engya3JiYXpieGgzbnlvazFxeGF4cmhyeTA5MG9sdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)
 
 Thanks for visiting my profile! 🚀
