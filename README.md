@@ -34,3 +34,10 @@ I'm a **Full Stack Software Developer** with over **7 years** of experience, pas
 ![Meme](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh0Y2tzMW05engya3JiYXpieGgzbnlvazFxeGF4cmhyeTA5MG9sdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)
 
 Thanks for visiting my profile! 🚀
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph.svg">
+</picture>
+
